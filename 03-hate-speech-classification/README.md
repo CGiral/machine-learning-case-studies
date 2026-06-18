@@ -34,7 +34,9 @@ The project compares several supervised classification models and different feat
 
 ## Dataset
 
-The dataset contains 10,000 labelled comments and a set of numerical and transformed features used for classification.
+The dataset is not included in this repository because it contains sensitive text content and redistribution rights are not guaranteed.
+
+The notebook expects a local `out.csv` file with the required preprocessed features and labels.
 
 ## Technologies
 
